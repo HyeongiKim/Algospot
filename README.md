@@ -8,4 +8,4 @@ Reference : [Algospot](http://algospot.com)
 
 2. *Merciful algo*
 
-3. *ENCRYPT
+3. *Encrypt

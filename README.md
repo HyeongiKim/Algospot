@@ -7,3 +7,5 @@ Reference : [Algospot](http://algospot.com)
 1. *Hello world*
 
 2. *Merciful algo*
+
+3. *ENCRYPT
